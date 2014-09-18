@@ -97,7 +97,9 @@ defmodule ProyectoEuler do
 
 	def sumaFactorial(num) do
 	    num = factorial(num)
+	    IO.puts "El factorial es:"
 	    IO.puts num 
+	    IO.puts "La suma es:"
 	    sumaDigitos(num)   
 	end 
 
