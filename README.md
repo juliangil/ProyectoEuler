@@ -1,3 +1,6 @@
+#Julian Gil - Sergio Gutierrez
+#Codetag 2014
+
 1. Entramos a elixir, digitamos en la consola, dentro de nuestra carpeta Proyecto Euler:
 	>iex 
 
